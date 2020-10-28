@@ -1,3 +1,6 @@
+Maze generator and solve with different algorithms.
+MVC Program OPP
+
 מגישים:
 ניב סויסה 307929257
 מרטין מסס 329834857
